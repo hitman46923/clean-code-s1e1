@@ -126,7 +126,7 @@ button {
   transform: rotateZ(45deg);
   transition: transform 200ms ease-in;
 }
-.re:hover {
+.remove-image:hover {
   transform: rotateZ(0);
 }
 
